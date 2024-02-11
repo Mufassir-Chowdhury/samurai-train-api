@@ -1,0 +1,6 @@
+{
+"station_id": 1,
+"station_name": "tukerbajar",
+"longitude": 10.12,
+"lattitude": 23.23
+}
